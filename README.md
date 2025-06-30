@@ -1,8 +1,6 @@
-#api-rest-orm##
+##api-rest-orm
 
 Esta es una API REST desarrollada en **Node.js** con **Express** y **MongoDB** que permite realizar operaciones CRUD sobre usuarios. Incluye autenticación segura mediante **JWT** y almacenamiento de contraseñas encriptadas con **bcrypt**.
-
-> ✅ Esta rama contiene **solo el backend**, ideal para integraciones con frontend o apps móviles.
 
 ---
 
